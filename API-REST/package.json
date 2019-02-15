@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jekthor/nodejs-express/issues"
   },
-  "homepage": "https://github.com/jekthor/nodejs-express#readme"
+  "homepage": "https://github.com/jekthor/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
